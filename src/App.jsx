@@ -6,7 +6,7 @@ function App() {
       <header>
         <nav>
           <ul>
-            <li>Home</li>
+            <li>Mehreen</li>
             <li>About</li>
             <li>Contact</li>
           </ul>
