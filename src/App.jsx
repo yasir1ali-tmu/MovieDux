@@ -8,7 +8,7 @@ function App() {
           <ul>
             <li>Mehreen</li>
             <li>Yasir Ali</li>
-            <li>Contact</li>
+            <li>Ali</li>
           </ul>
         </nav>
       </header>
