@@ -7,7 +7,7 @@ function App() {
         <nav>
           <ul>
             <li>Mehreen</li>
-            <li>About</li>
+            <li>Yasir Ali</li>
             <li>Contact</li>
           </ul>
         </nav>
